@@ -1,0 +1,256 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "Microsoft обновила Windows 7, Windows 8.1, Windows 10 и Windows 11",
+            "rating": 10,
+            "author": "Майкл Скотт",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1133.jpg",
+            "url": "https://www.ixbt.com/news/2022/02/09/microsoft-windows-7-windows-8-1-windows-10-windows-11.html",
+            "date": "Fri Apr 19 2022 09:00:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "ivan2",
+                "text": "awesome"
+              },
+              {
+                "nickname": "popsa",
+                "text": "way"
+              }]
+        },
+        {
+            "id": 2,
+            "title": "Microsoft напомнила о скором прекращении поддержки Windows 10 (20H2)",
+            "rating": 8,
+            "author": "Пэм Бисли",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/231.jpg",
+            "url": "https://3dnews.ru/1060030/microsoft-napomnila-o-skorom-prekrashchenii-poddergki-windows-10-20h2",
+            "date": "Fri Apr 19 2022 09:00:57 GMT+0200",
+            "comments": [
+              {
+                "nickname": "ivan222",
+                "text": "awesomeeeeee"
+              },
+              {
+                "nickname": "popsa222",
+                "text": "wayyyyy"
+              }]
+        },
+        {
+            "id": 3,
+            "title": "Microsoft рассматривает переход на более «гибкую» процентную ставку в магазине Xbox вместо устоявшейся 30",
+            "rating": 9,
+            "author": "Джим Халперт",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/415.jpg",
+            "url": "https://dtf.ru/s/xbox_club/1074399-microsoft-rassmatrivaet-perehod-na-bolee-gibkuyu-procentnuyu-stavku-v-magazine-xbox-vmesto-ustoyavsheysya-30-komissii",
+            "date": "Fri Apr 19 2022 09:00:55 GMT+0200",
+            "comments": [
+              {
+                "nickname": "qwerty",
+                "text": "good"
+              },
+              {
+                "nickname": "xitman",
+                "text": "yoooo"
+              }]
+        },
+        {
+            "id": 4,
+            "title": "Microsoft переманивает к себе огромными скидками пользователей, которых обидела Google",
+            "rating": 7,
+            "author": "Дуайт Шрут",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1241.jpg",
+            "url": "https://www.cnews.ru/news/top/2022-02-11_microsoft_zamanivaet_v_microsoft_365",
+            "date": "Fri Apr 19 2022 09:01:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "nik",
+                "text": "ogo"
+              },
+              {
+                "nickname": "nickolya",
+                "text": "ohgod"
+              }]
+        },
+        {
+            "id": 5,
+            "title": "Огромная видеокарта NVIDIA Titan нового поколения получит вертикальную печатную плату",
+            "rating": 6,
+            "author": "Эррин Хэннон",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1227.jpg",
+            "url": "https://dzen.ru/news/story/Ogromnaya_videokarta_NVIDIA_Titan_novogo_pokoleniya_poluchit_vertikalnuyu_pechatnuyu_platu--829f3f0fe354c359c46badb6fc5bae01?lang=ru&rubric=computers&fan=1&stid=YQ4KX958&t=1675078507&persistent_id=1696560486&story=fa3b42d5-bfb9-5f94-99fd-4740132830ae&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:02:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "ivanka",
+                "text": "good"
+              },
+              {
+                "nickname": "petya",
+                "text": "chudo"
+              }]
+        },
+        {
+            "id": 6,
+            "title": "Мессенджер WhatsApp получит функцию отправки реакций в группах для объявлений",
+            "rating": 8,
+            "author": "Райан Ховард",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/550.jpg",
+            "url": "https://dzen.ru/news/story/Messendzher_WhatsApp_poluchit_funkciyu_otpravki_reakcij_vgruppakh_dlyaobyavlenij--3f9a11211f20980a5bc3c10c6dffcc98?lang=ru&rubric=computers&fan=1&stid=MbEXW_xa0YFEW2BvTwoc&t=1675078507&persistent_id=1688561615&story=a5647b43-1668-561a-bfaf-d248d783f6f8&issue_tld=ru",
+            "date": "Fri Apr 19 2022 10:01:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "michele",
+                "text": "fav!"
+              },
+              {
+                "nickname": "ira",
+                "text": "greate!"
+              }]
+        },
+        {
+            "id": 7,
+            "title": "На этой неделе выйдет RCE-эксплойт для дыр в VMware vRealize Log",
+            "rating": 10,
+            "author": "Келли Капур",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/404.jpg",
+            "url": "https://dzen.ru/news/story/Naehtoj_nedele_vyjdet_RCE-ehksplojt_dlyadyr_vVMware_vRealize_Log--b1de85e0e271e50067b7694a2143e9e0?lang=ru&rubric=computers&fan=1&t=1675078507&persistent_id=1689760032&story=2b233475-59b6-571a-aeca-9bb930c4255e&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:01:50 GMT+0200",
+            "comments": [
+              {
+                "nickname": "fedor",
+                "text": "good"
+              },
+              {
+                "nickname": "liza",
+                "text": "u r welcome"
+              }]
+        },
+        {
+            "id": 8,
+            "title": "Представлен маршрутизатор Zenator R",
+            "rating": 9,
+            "author": "Анджела Мартин",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/93.jpg",
+            "url": "https://dzen.ru/news/story/Predstavlen_rossijskij_marshrutizator_Zenator_R--8567aa6c44ddcf7b7a5b0c1398770f01?lang=ru&rubric=computers&fan=1&t=1675078507&persistent_id=1696560362&story=b471eef9-4b45-55c7-ae3e-8fda2079df72&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:11:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "lana",
+                "text": "awesome"
+              },
+              {
+                "nickname": "dima",
+                "text": "way"
+              }]
+        },
+        {
+            "id": 9,
+            "title": "Apple выпустит складной iPad в 2024 году",
+            "rating": 7,
+            "author": "Джэн Левинсон",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/772.jpg",
+            "url": "https://dzen.ru/news/story/Apple_vypustit_skladnoj_iPad_v2024_godu--3919f3b3de872d703f3c98f6fdbd7047?lang=ru&rubric=computers&fan=1&stid=Uq6PI3jqBVtqZo19JCjM&t=1675078507&persistent_id=1692561434&story=d32b7513-860b-57dc-9037-69c06629c54d&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:02:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "nadya",
+                "text": "hi"
+              },
+              {
+                "nickname": "tim",
+                "text": "hello"
+              }]
+        },
+        {
+            "id": 10,
+            "title": "Китайская Baidu планирует запустить чатбота в стиле ChatGPT",
+            "rating": 8,
+            "author": "Энди Бернард",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/581.jpg",
+            "url": "https://dzen.ru/news/story/Kitajskaya_Baidu_planiruet_zapustit_chatbota_vstile_ChatGPT--d4ad329a370cfeb62ce4375073485f5a?lang=ru&rubric=computers&fan=1&stid=ceBRFhyr5JXjBMlI4J4R&t=1675078507&persistent_id=1687762784&story=87024497-24c5-56c5-b2d0-d84581c68f87&issue_tld=ru",
+            "date": "Fri Apr 19 2022 14:01:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "hodor",
+                "text": "hodor"
+              },
+              {
+                "nickname": "gendalf",
+                "text": "ya vernus s pervimi luchami solnca c vostoka"
+              }]
+        },
+        {
+            "id": 11,
+            "title": "Apple Watch Ultra стали официальным устройством Всемирной лиги сёрфинга",
+            "rating": 6,
+            "author": "Крид Брэтон",
+            "avatar": "",
+            "url": "https://dzen.ru/news/story/Apple_Watch_Ultra_stali_oficialnym_ustrojstvom_Vsemirnoj_ligi_syorfinga--2fdf9f0b7de201bd194a4f0d5426f030?lang=ru&rubric=computers&fan=1&stid=CD7CBD0hcnu31D2C&t=1675078507&persistent_id=1661360290&story=a2652307-9785-5fbf-8caa-48563d2e7d13&issue_tld=ru",
+            "date": "Fri Apr 19 2022 15:01:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "harry",
+                "text": "potter"
+              },
+              {
+                "nickname": "ron",
+                "text": "good"
+              }]
+        },
+        {
+            "id": 12,
+            "title": "Создатели The Last of Us рассказали об изменении истории Билла и Фрэнка в экранизации",
+            "rating": 8,
+            "author": "Кэвин Малон",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/299.jpg",
+            "url": "https://dzen.ru/news/story/Sozdateli_The_Last_of_Us_rasskazali_ob_izmenenii_istorii_Billa_i_Frehnka_vehkranizacii--cf44e3f2fd37bcb71c22bd8127596bfe?lang=ru&rubric=computers&fan=1&t=1675078507&persistent_id=1696560488&story=cc9b1778-aa25-5e71-a280-ca3b1beb049b&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:56:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "hermiona",
+                "text": "cat"
+              },
+              {
+                "nickname": "hagrid",
+                "text": "cake"
+              }]
+        },
+        {
+            "id": 13,
+            "title": "Boston Dynamics показала нарезку неудачных дублей с падениями робота Atlas",
+            "rating": 7,
+            "author": "Карен Филипелли",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/956.jpg",
+            "url": "https://dzen.ru/news/story/Boston_Dynamics_pokazala_narezku_neudachnykh_dublej_spadeniyami_robota_Atlas--4c01d30d41d57e7931a6d8df00197b36?lang=ru&rubric=computers&fan=1&stid=ss-Og6CR-MM6&t=1675078507&persistent_id=1628561882&story=d7e8eeb0-3400-58f9-92dc-486c789c8c98&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:07:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "footb",
+                "text": "suuuui"
+              },
+              {
+                "nickname": "bob",
+                "text": "nebob"
+              }]
+        },
+        {
+            "id": 14,
+            "title": "Создатель Mortal Kombat Эд Бун давно планирует выпустить ремейк Мортал Комбат 4",
+            "rating": 8,
+            "author": "Пит Миллер",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/47.jpg",
+            "url": "https://dzen.ru/news/story/Sozdatel_Mortal_Kombat_EHd_Bun_davno_planiruet_vypustit_remejk_Mortal_Kombat_4--0358ce84195709734404e00cb8c4d11a?lang=ru&rubric=computers&fan=1&stid=KfJPtRMXuS6A&t=1675078507&persistent_id=1687763099&story=635a340c-d2bb-507b-98c1-d27bf01c0e38&issue_tld=ru",
+            "date": "Fri Apr 19 2022 09:41:56 GMT+0200",
+            "comments": [
+              {
+                "nickname": "brienna",
+                "text": "imenem korolya"
+              },
+              {
+                "nickname": "berton",
+                "text": "helena"
+              }]
+        }
+    ]
+}

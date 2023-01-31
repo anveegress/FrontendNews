@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+/* .mainTextNavBar {
+  width: 116px;
+  height: 25px;
+  left: 124px;
+  top: 79px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  background: linear-gradient(180deg, #FFA706 0%, #BD5BEE 35.31%, #BD5BEE 61.88%, #0078FC 95.73%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-decoration: none;
+} */

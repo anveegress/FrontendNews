@@ -1,0 +1,46 @@
+.cnCardNewsRoot {
+display: flex;
+flex-direction: column;
+width: 600px;
+border: 1pz solid #dbdbdb;
+box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+}
+
+.cnCardNewsHeader {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+height: 60px;
+padding-left: 20px;
+background-color: #fff;
+}
+
+.cnCardImage {
+height: 300px;
+width: 100%;
+}
+
+/* .cnCardNewsTitle {
+}
+.cnCardNewsRaiting {
+} */
+
+.cnCardNewsTextarea {
+border: none;
+background-color: white;
+padding: 10px;
+outline: none;
+resize: none;
+}
+
+.cnCardComments {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px 10px 10px;
+}
+
+.cnCardNewsCommentsTitle {
+    font-size: 14px;
+    color: darkgray;
+    cursor: pointer;
+}

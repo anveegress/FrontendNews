@@ -1,11 +1,16 @@
-// import logo from './logo.svg';
-// import './App.css';
+import './App.css';
 import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import MainPage from './pages/MainPage';
+import NewsPage from './pages/NewsPage';
 
 function App() {
   return (
     <div>
-      safshjfhksd
+      <Routes>
+        <Route element={<MainPage />} path="/" />
+        <Route element={<NewsPage />} path="/:id" />
+      </Routes>
     </div>
   );
 }
